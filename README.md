@@ -9,7 +9,7 @@ to generate high fidelity pdf stationery.
 The script generates a customized page of graph paper as a pdf. 
 (see images dir for example output).
 
-[squared] (images/squared.png) 
+[][images/squared.png] 
 
 Lines are automatically drawn onto a pdf canvas and a coloured
 tab is drawn down the side of the page.
